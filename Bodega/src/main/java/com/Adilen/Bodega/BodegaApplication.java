@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class BodegaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BodegaApplication.class, args);
-
+		
 	}
 
 	// Testing de la ruta principal(/) | Eliminar cuando se programe las otras
